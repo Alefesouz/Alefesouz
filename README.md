@@ -1,10 +1,10 @@
-###Olá! Eu sou Álefe Souza👋
+<h1>Olá! Eu sou Álefe Souza👋</h1>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefe-souza-935231296)  
 
 ![Álefe GitHub stats](https://github-readme-stats.vercel.app/api?username=Alefesouz&show_icons=true&theme=dracula) 
 
-##Tecnologias 
+<h1>Tecnologias do meu dia a dia</h1>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,5 +18,5 @@
 Entrando de cabeça no mundo da programação, experiência incrivel.
 Agora embusca da minha experiência oportudindade "Oficial"  experiência.
 
-#Meu email: caitano170@gmail.com
+Meu email: caitano170@gmail.com
 
